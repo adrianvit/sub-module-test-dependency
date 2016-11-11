@@ -1,2 +1,2 @@
-sub-module-test-depedency readme v1
+sub-module-test-depedency readme v2 from main
 
